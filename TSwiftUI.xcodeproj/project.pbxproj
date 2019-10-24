@@ -28,7 +28,6 @@
 		DD8AEA2B235A0B77009DD845 /* rainbowlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DD8AEA1E235A0B77009DD845 /* rainbowlake.jpg */; };
 		DD9BDF382360928E005782C9 /* HikeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9BDF372360928E005782C9 /* HikeView.swift */; };
 		DD9BDF3A236092BB005782C9 /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9BDF39236092BB005782C9 /* Hike.swift */; };
-		DD9BDF3F23609644005782C9 /* HikeData.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9BDF3E23609644005782C9 /* HikeData.swift */; };
 		DD9BDF41236096B8005782C9 /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = DD9BDF40236096B8005782C9 /* hikeData.json */; };
 		DD9BDF43236098F6005782C9 /* HikeGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9BDF42236098F6005782C9 /* HikeGraph.swift */; };
 		DD9BDF4523609EE6005782C9 /* GraphCapsule.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD9BDF4423609EE6005782C9 /* GraphCapsule.swift */; };
@@ -88,7 +87,6 @@
 		DD8AEA1E235A0B77009DD845 /* rainbowlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rainbowlake.jpg; sourceTree = "<group>"; };
 		DD9BDF372360928E005782C9 /* HikeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeView.swift; sourceTree = "<group>"; };
 		DD9BDF39236092BB005782C9 /* Hike.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hike.swift; sourceTree = "<group>"; };
-		DD9BDF3E23609644005782C9 /* HikeData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeData.swift; sourceTree = "<group>"; };
 		DD9BDF40236096B8005782C9 /* hikeData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hikeData.json; sourceTree = "<group>"; };
 		DD9BDF42236098F6005782C9 /* HikeGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeGraph.swift; sourceTree = "<group>"; };
 		DD9BDF4423609EE6005782C9 /* GraphCapsule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphCapsule.swift; sourceTree = "<group>"; };
@@ -186,7 +184,6 @@
 			isa = PBXGroup;
 			children = (
 				DD9BDF372360928E005782C9 /* HikeView.swift */,
-				DD9BDF3E23609644005782C9 /* HikeData.swift */,
 				DD9BDF42236098F6005782C9 /* HikeGraph.swift */,
 				DD9BDF4423609EE6005782C9 /* GraphCapsule.swift */,
 				DD9BDF462360A454005782C9 /* HikeDetail.swift */,
@@ -436,7 +433,6 @@
 				DD5C8E192359FD5000A21111 /* LandmarkRow.swift in Sources */,
 				DD5C8E152359F98600A21111 /* Landmark.swift in Sources */,
 				DDF1454E235DF35100AD3F64 /* UserData.swift in Sources */,
-				DD9BDF3F23609644005782C9 /* HikeData.swift in Sources */,
 				DD5C8E1B2359FE5400A21111 /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
