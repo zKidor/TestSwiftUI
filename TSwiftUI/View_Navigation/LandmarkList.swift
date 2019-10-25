@@ -36,7 +36,7 @@ struct LandmarkList: View {
 //        }
         
         
-        NavigationView{
+//        NavigationView{
             List{
                 
                 Toggle(isOn: $userdata.showFavoritesOnly) {
@@ -54,7 +54,7 @@ struct LandmarkList: View {
                 }
             }
             .navigationBarTitle(Text("Landmarks"))
-        }
+//        }
     }
 }
 
