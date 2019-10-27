@@ -56,7 +56,7 @@ struct HikeView: View {
                     .transition(.moveAndFade)
             }
             
-            Spacer()
+//            Spacer()
         }
         
         
