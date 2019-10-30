@@ -43,9 +43,9 @@ struct CategoryHome: View {
             
             List{
                 
-                FeaturedLandmarks(landmarkd: featured)
+                PageView(features.map { FeatureCard(landmark: $0) })
                 .scaledToFill()
-                .frame(height:200)
+                .frame(height:260)
                 .clipped()
                     .listRowInsets(EdgeInsets())//去除左右上下的边距
                 

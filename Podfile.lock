@@ -1,0 +1,16 @@
+PODS:
+  - SwiftEventBus (5.0.0)
+
+DEPENDENCIES:
+  - SwiftEventBus
+
+SPEC REPOS:
+  trunk:
+    - SwiftEventBus
+
+SPEC CHECKSUMS:
+  SwiftEventBus: b30f617a6aca5a9336464b4d3f5931034762f2d5
+
+PODFILE CHECKSUM: 98b049acfbf12e57aaf0fdd05304edf8d9d62a34
+
+COCOAPODS: 1.8.4
